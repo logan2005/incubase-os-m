@@ -135,11 +135,11 @@ export default function LoginPage() {
             >
               <div className="w-10 h-10 rounded-lg bg-accent-teal flex items-center justify-center glow-teal">
                 <span className="font-[family-name:var(--font-syne)] text-white text-sm font-bold">
-                  iO
+                  e.
                 </span>
               </div>
               <span className="font-[family-name:var(--font-syne)] text-text-primary text-xl font-semibold">
-                IncubaseOS
+                edgyy
               </span>
             </motion.div>
 
@@ -154,7 +154,7 @@ export default function LoginPage() {
                 Welcome Back
               </h1>
               <p className="text-text-secondary text-sm font-[family-name:var(--font-dm-sans)]">
-                Sign in to your IncubaseOS dashboard
+                Sign in to your edgyy dashboard
               </p>
             </motion.div>
 

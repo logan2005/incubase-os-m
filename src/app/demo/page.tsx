@@ -107,7 +107,7 @@ export default function DemoPage() {
                 </Badge>
 
                 <h1 className="font-[family-name:var(--font-syne)] text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-text-primary mb-5">
-                  See IncubaseOS{" "}
+                  See edgyy{" "}
                   <span className="bg-gradient-to-r from-accent-teal-light to-accent-teal bg-clip-text text-transparent">
                     in Action
                   </span>

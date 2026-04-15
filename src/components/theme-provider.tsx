@@ -15,14 +15,14 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
 
   useEffect(() => {
     setMounted(true);
-    const saved = localStorage.getItem("incubaseos-theme") as Theme | null;
+    const saved = localStorage.getItem("edgyy-theme") as Theme | null;
     if (saved) setTheme(saved);
   }, []);
 
   useEffect(() => {
     if (!mounted) return;
     document.documentElement.setAttribute("data-theme", theme);
-    localStorage.setItem("incubaseos-theme", theme);
+    localStorage.setItem("edgyy-theme", theme);
   }, [theme, mounted]);
 
   const toggleTheme = () => setTheme((t) => (t === "dark" ? "light" : "dark"));

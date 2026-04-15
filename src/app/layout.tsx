@@ -24,7 +24,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "IncubaseOS — The Operating System for Modern Startup Incubators",
+  title: "edgyy — The Operating System for Modern Startup Incubators",
   description:
     "End-to-end incubation management. Startups, mentors, investors, hackathons, facilities, revenue — all in one platform. 16 modules. 75+ pages. 4 user roles.",
   keywords: [
@@ -34,10 +34,10 @@ export const metadata: Metadata = {
     "mentor management",
     "hackathon management",
     "incubator CRM",
-    "IncubaseOS",
+    "edgyy",
   ],
   openGraph: {
-    title: "IncubaseOS — The Operating System for Modern Startup Incubators",
+    title: "edgyy — The Operating System for Modern Startup Incubators",
     description:
       "End-to-end incubation management. Startups, mentors, investors, hackathons, facilities, revenue — all in one platform.",
     type: "website",

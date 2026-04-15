@@ -74,7 +74,7 @@ export function LoadingScreen() {
                 />
 
                 <span className="relative font-[family-name:var(--font-syne)] text-2xl font-bold text-white">
-                  iO
+                  e.
                 </span>
               </motion.div>
             </div>
@@ -89,7 +89,7 @@ export function LoadingScreen() {
                 visible: { transition: { staggerChildren: 0.04, delayChildren: 0.3 } },
               }}
             >
-              {"IncubaseOS".split("").map((char, i) => (
+              {"edgyy".split("").map((char, i) => (
                 <motion.span
                   key={i}
                   className="font-[family-name:var(--font-syne)] text-2xl font-bold text-text-primary inline-block"

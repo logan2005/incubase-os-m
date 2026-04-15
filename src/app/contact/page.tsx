@@ -11,7 +11,7 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "hello@incubaseos.com",
+    value: "hello@edgyy.com",
     color: "text-accent-teal-light",
     bg: "bg-accent-teal/10",
   },
@@ -68,7 +68,7 @@ export default function ContactPage() {
                   Get in Touch
                 </h1>
                 <p className="text-text-secondary text-lg leading-relaxed">
-                  Have questions about IncubaseOS? We&apos;d love to hear from
+                  Have questions about edgyy? We&apos;d love to hear from
                   you. Our team is ready to help you transform your incubation
                   center.
                 </p>

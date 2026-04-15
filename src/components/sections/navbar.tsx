@@ -93,10 +93,10 @@ export default function Navbar() {
           className="flex items-center gap-2.5 group"
         >
           <div className="relative flex h-8 w-8 items-center justify-center rounded-lg bg-accent-teal text-white font-[family-name:var(--font-syne)] text-sm font-bold transition-transform duration-200 group-hover:scale-105">
-            iO
+            e.
           </div>
           <span className="font-[family-name:var(--font-syne)] text-lg font-bold text-text-primary tracking-tight">
-            IncubaseOS
+            edgyy
           </span>
         </a>
 

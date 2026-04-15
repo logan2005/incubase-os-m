@@ -112,7 +112,7 @@ function TestimonialQuote() {
     >
       <Quote className="h-6 w-6 text-accent-teal/20 mb-3" />
       <p className="text-text-secondary text-sm leading-relaxed italic">
-        &ldquo;We replaced 12 different tools with IncubaseOS. Our team saves
+        &ldquo;We replaced 12 different tools with edgyy. Our team saves
         20+ hours every week and the onboarding took less than a day.&rdquo;
       </p>
       <div className="mt-4 flex items-center gap-3">
@@ -372,7 +372,7 @@ export default function GetStartedPage() {
                             Create your account
                           </h2>
                           <p className="mt-2 text-text-secondary text-sm font-[family-name:var(--font-dm-sans)]">
-                            Fill in your details to get started with IncubaseOS.
+                            Fill in your details to get started with edgyy.
                           </p>
                         </div>
 

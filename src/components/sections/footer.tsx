@@ -61,11 +61,11 @@ export function Footer() {
               {/* Logo mark */}
               <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent-teal border border-accent-teal/30">
                 <span className="font-[family-name:var(--font-syne)] text-white font-bold text-sm">
-                  iO
+                  e.
                 </span>
               </div>
               <span className="font-[family-name:var(--font-syne)] text-xl font-bold text-text-primary">
-                IncubaseOS
+                edgyy
               </span>
             </div>
             <p className="text-text-secondary text-sm leading-relaxed max-w-xs">
@@ -109,7 +109,7 @@ export function Footer() {
 
           {/* Copyright */}
           <p className="text-text-tertiary text-xs font-[family-name:var(--font-jetbrains-mono)]">
-            &copy; 2026 IncubaseOS. All rights reserved.
+            &copy; 2026 edgyy. All rights reserved.
           </p>
         </div>
       </motion.div>

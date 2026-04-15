@@ -59,7 +59,7 @@ export function CTA() {
 
         {/* Subtitle */}
         <p className="text-text-secondary text-lg md:text-xl leading-relaxed max-w-2xl mx-auto mb-10">
-          Join 50+ incubation centers already using IncubaseOS to streamline
+          Join 50+ incubation centers already using edgyy to streamline
           their operations.
         </p>
 

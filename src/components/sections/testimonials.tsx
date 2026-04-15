@@ -18,7 +18,7 @@ interface Testimonial {
 const testimonials: Testimonial[] = [
   {
     quote:
-      "We replaced 12 different tools with IncubaseOS. Applications, milestone tracking, mentor sessions, revenue reports \u2014 everything lives in one place now. Our team saves 20+ hours every week.",
+      "We replaced 12 different tools with edgyy. Applications, milestone tracking, mentor sessions, revenue reports \u2014 everything lives in one place now. Our team saves 20+ hours every week.",
     name: "Dr. Priya Sharma",
     title: "Director",
     org: "IITM Incubation Cell",
