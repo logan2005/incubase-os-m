@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.reactbits.dev)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:reactscript.com)",
+      "WebFetch(domain:dev.to)",
+      "WebFetch(domain:allshadcn.com)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm --yes)",
+      "Bash(cp temp_next/package.json .)",
+      "Bash(cp temp_next/tsconfig.json .)",
+      "Bash(cp temp_next/next.config.ts .)",
+      "Bash(cp temp_next/postcss.config.mjs .)",
+      "Bash(cp temp_next/next-env.d.ts .)",
+      "Bash(cp temp_next/.eslintrc.json .)",
+      "Bash(cp -r temp_next/src .)",
+      "Bash(cp -r temp_next/node_modules .)",
+      "Bash(cp -r temp_next/public .)",
+      "Bash(cp temp_next/.gitignore .)",
+      "Bash(rm -rf temp_next)",
+      "Bash(npm install framer-motion lucide-react clsx tailwind-merge @react-three/fiber @react-three/drei three @types/three)",
+      "Bash(npx next build)",
+      "Bash(rm -f D:/package-lock.json)",
+      "Bash(npm run build)",
+      "Bash(for f in *.tsx)",
+      "Bash(do echo \"=== $f ===\")",
+      "Read(//d/shilog-projects/incubase_os_marketing/**)",
+      "Bash(done)",
+      "Bash(do sed -i 's/ease: \\\\[0\\\\.22, 1, 0\\\\.36, 1\\\\]/ease: \"\"easeOut\"\"/g' \"$f\")",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3001)",
+      "Bash(ls \"D:/shilog-projects/incubase_os_marketing/node_modules/.bin/next\"*)",
+      "Bash(taskkill //PID 45036 //F)",
+      "Bash(kill 45036)",
+      "Bash(kill -9 45036)",
+      "Bash(/c/Windows/System32/taskkill.exe /PID 45036 /F)",
+      "Bash(/c/Windows/System32/taskkill.exe //PID 45036 //F)",
+      "Bash(grep -l \"RevealStagger\\\\|Reveal\" \"D:/shilog-projects/incubase_os_marketing/src/components/sections/\"*.tsx)"
+    ]
+  }
+}
