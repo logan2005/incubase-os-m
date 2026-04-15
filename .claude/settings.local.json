@@ -36,7 +36,9 @@
       "Bash(kill -9 45036)",
       "Bash(/c/Windows/System32/taskkill.exe /PID 45036 /F)",
       "Bash(/c/Windows/System32/taskkill.exe //PID 45036 //F)",
-      "Bash(grep -l \"RevealStagger\\\\|Reveal\" \"D:/shilog-projects/incubase_os_marketing/src/components/sections/\"*.tsx)"
+      "Bash(grep -l \"RevealStagger\\\\|Reveal\" \"D:/shilog-projects/incubase_os_marketing/src/components/sections/\"*.tsx)",
+      "Bash(npm ls lightningcss)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); pkgs=d.get\\(''packages'',{}\\); lc=[k for k in pkgs if ''lightningcss'' in k]; print\\(''\\\\n''.join\\(lc[:20]\\)\\); print\\(f''\\\\nTotal lightningcss entries: {len\\(lc\\)}''\\)\")"
     ]
   }
 }
